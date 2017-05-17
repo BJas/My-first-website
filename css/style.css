@@ -1,0 +1,192 @@
+.thead{
+	margin: 0px;
+	height: 1200px;
+	width: 100%;
+	}
+
+.header{
+	height: 120px;
+	background-color: #CC833B;
+	text-align: center;
+	width: 100%;
+	border-bottom: 45px solid #3395B2; 
+}
+
+.leftimg{
+	float: left;
+	height: 40px;
+	width: 50px;
+	border: 2px solid #CC833B;
+}
+
+.center{
+	color: #FFE2B1;
+	height: 50px;
+	width: 100%;
+	text-decoration: none;
+	margin-left: 30px;
+	margin-right: 15px;
+	font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
+	text-transform: uppercase;
+	text-shadow: 2px 2px #3395B2;
+	font-size: 40px;
+	transition-property: color;
+	transition-timing-function: ease;
+	transition-duration: 0.5s;
+}
+
+.center:hover{
+	color: #7DE1FF;
+	text-decoration: none;	
+}
+
+#body{
+	height: 100%;
+	width: 100%;
+	background-color: #E5DDB2;
+}
+
+#leftside{
+	height: 100%;
+	width: 75%;
+	background-color: #BFB894;
+	margin: auto;
+}
+
+h2{
+	padding-left: 15px;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-style: italic;
+}
+
+p{
+	padding-left: 7px;
+	padding-right: 7px;
+	text-indent: 10px;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+}
+
+.image2{
+	margin-bottom: 20px;
+	margin-left: 330px;
+	height: 300px;
+	width: 400px;
+}
+
+.fontfam1{
+	font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+img{
+	text-align: center;
+	width: 240px;
+	height: 240px;
+	margin-top: 40px;
+	margin-left: 80px;
+	margin-bottom: 20px;
+}
+
+h1{
+	font-style: bold;
+	text-align: center;
+}
+
+.text1{
+	font-family: Papyrus, fantasy;
+}
+
+#googleMap{
+	margin-left: 250px;
+	width: 500px;
+	height: 380px;
+}
+
+footer{
+	height: 110px;
+	text-align: left;
+	background-color: #3176B2;
+	margin-top: 160px;
+}
+.foot{
+	font-size: 13px;
+	color: lightgray;
+	padding-left: 170px;
+	font-family:  Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+.footimg{
+	float: right;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 100px;
+	height: 40px;
+	width: 40px;
+}
+
+.articleTheme{
+	font-size: 30px;
+	font-style: bold;
+}
+
+.articleThemetitle{
+	text-align: center;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	text-align: left;
+	font-size: 17px;
+	margin-left: 20px;
+}
+
+.articleThemetitle:hover{
+	color: #77C7FF;
+	text-decoration: none;	
+}
+
+.articleThemetitle::selection{
+	color: red;
+}
+
+.articleDate{
+	color: gray;
+	font-size: 13px;
+}
+
+.articleText{
+	margin: auto;
+	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+	font-size: 18px;
+}
+
+.articletitle{
+	margin-left: 340px;
+	height: 400px;
+	width: 350px;
+	background-color: #F3FFF4;
+	border-bottom: 3px blue solid; 
+}
+
+.articleAuthor{
+	text-decoration: none;
+}
+
+.news1img{
+	margin-left: 200px;
+	height: 400px;
+	width: 650px;
+}
+
+.news1imgtitle{
+	float: left;
+	margin-left: 0.5px;
+	height: 200px;
+	width: 350px;
+}
+
+.newslink{
+	margin-left: 10px;
+	width: 20px;
+	height: 20px;
+}
+
+#myButton{
+	float: right;
+}
